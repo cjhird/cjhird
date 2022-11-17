@@ -7,10 +7,6 @@ I'm a junior software engineer with a passion for building impactful software pr
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjhird)](https://github.com/cjhird/github-readme-stats)
-
-<br>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cjhird&show_icons=true)
 <!--
 **cjhird/cjhird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
