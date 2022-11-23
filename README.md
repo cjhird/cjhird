@@ -3,7 +3,7 @@
 I'm a junior software engineer with a passion for building impactful software products.
 
 - 🔭 I’m currently working on building a webcrawler 🕷️ to scrape auction data. 
-- 🌱 I’m currently learning TypeScript and NextJS.
+- 🌱 I’m currently learning TypeScript.
 
 <!--
 **cjhird/cjhird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
